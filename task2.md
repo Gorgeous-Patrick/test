@@ -8,7 +8,7 @@ git add task2.md
 git commit -m "Add task2"
 ```
 
- ## "We foster talents, encourage creativity, and reward excellence"
+ ## "We foster talents, encourage creativity, and dreward excellence"
 
  ~~Indeed! Donell is an evil leader, who always want to kill his employees~~
 
