@@ -31,7 +31,7 @@ After pushing the repo onto gitea, your managers can see it themselves.
 
 Then you continue to edit this file.
 
-"SilverFOCS incubator was founded in 2010 as a special branch of the FOCS company. We released our first game, Creed of Knight, in 2012, and it has since grown into one of the most popular games in the world. Over the past 10 years, SilverFOCS has reached thousand excellent games with over 100 million world-wide players. Since 2019, SilverFOCS has been cooperating with UM-SJTU JI. With the best talents in the world, SilverFOCS aims at creating the best games in the world."
+"SilverFOCS incubator was founded in 2020 as a special branch of the FOCS company. We released our first game, Creed of Knight, in 2012, and it has since grown into one of the most popular games in the world. Over the past 1 year, SilverFOCS has reached thousand excellent games with over 100 million world-wide players. Since 2019, SilverFOCS has been cooperating with UM-SJTU JI. With the best talents in the world, SilverFOCS aims at creating the best games in the world."
 
 (De-comment this paragraph.)
 You thought that the data might be wrong? The SFOCS was founded in 2020?
