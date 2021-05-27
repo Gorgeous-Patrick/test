@@ -6,12 +6,12 @@ git commit -m "Add task3"
 
 You found another description of SilverFOCS:
 
-Player experience is our first concern. Feedback from players is crucial to our improvement. We want to achieve game excellence by asking our users to use BAIDU. 
+<!-- Player experience is our first concern. Feedback from players is crucial to our improvement. We want to achieve game excellence by asking our users to use BAIDU.  -->
 
 NOOO! No Baidu!
 Change that to the following text:
 
-<!-- Player experience is our first concern. Feedback from players is crucial to our improvement. We want to achieve game excellence by interacting, communicating and engaging with our players.  -->
+Player experience is our first concern. Feedback from players is crucial to our improvement. We want to achieve game excellence by interacting, communicating and engaging with our players. 
 
 Again, add, commit.
 
